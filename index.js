@@ -1,4 +1,4 @@
 const age = 20;
-if (age < 18) {
-  console.log('Вы НЕ совершенолетний');
+if (age > 18) {
+  console.log('Вы совершенолетний');
 }
